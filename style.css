@@ -1,0 +1,104 @@
+img, h2{
+    display: inline-block;
+   }
+
+#b1 {
+    margin-left: 20px;
+}
+
+#head {
+    box-align: right;
+   
+
+}
+
+body div {
+    margin: 0px;
+background-color:white ;
+}
+ #a1,#a2,#b2,#b3 {
+
+
+position:relative ;
+top: -20px;
+
+ }
+ #a2 {
+    margin-left: 300px;
+    margin-right: 20px;
+}
+
+
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRItP-YqXqcEbYR9rBAejt3Rq3qrSab4e-xOQ&s);
+}
+
+#b2{
+    margin-right: 20px ;
+}
+
+#b3{
+    margin-left: 20px;
+}
+
+#b4{
+    font-size: 30px;
+}
+
+#b5{
+    font-size: large;
+}
+
+#img1{
+    height: 307px;
+    width: 200px;
+    margin : 130px;
+    margin-top: 5px;
+
+    border-width: 20px;
+
+  }
+  #img2{
+    width: 200px;
+    height :307px;
+    margin: 130px;
+    margin-top: 5px;
+  }
+  
+  #img3{
+    width:200px;
+    height: 307px;
+    margin-bottom: 30px;
+    margin: 130px;
+    margin-top: 5px;
+  }#img4{
+    width: 200px;
+    height: 307px;
+    margin-top: 5px;
+    margin-left: 250px;
+
+  }
+  #img5{
+    width: 200px;
+    height: 307px;
+    margin-top: 5px;
+    margin-left: 80px;
+
+
+  }
+  #img6{
+    width: 200px;
+    height: 307px;
+    margin-top: 5px;
+    margin-left: 80px;
+
+
+  }
+  #img7{
+    width: 200px;
+    height: 307px;
+    margin-top: 5px;
+    margin-left: 80px;
+
+
+  }
